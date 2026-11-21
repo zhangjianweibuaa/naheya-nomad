@@ -227,37 +227,5 @@ window.TRIPS = {
       includes: ["City private vehicle", "2 nights hotel", "Founder or senior guide commentary", "Food list and reservations at cost", "Insurance"],
       notes: ["Shaomai is ordered by 'liang' (8 pieces), not by piece", "Museum closed Mondays — the plan avoids it", "Add a day for Ulanhada volcanoes or Kubuqi desert"]
     }
-  },
-  "xilingol-deep": {
-    zh: {
-      name: "锡林郭勒草原深度 · 4天3晚",
-      brand: "游牧人定制旅行", tag: "深度 · 游牧文化",
-      days: "4天3晚", group: "2–6人", depart: "呼和浩特/锡林浩特出发", season: "6–9月",
-      price: "定制报价 · 询主理人",
-      summary: "乌珠穆沁的蒙古马与真正的游牧家访：不是表演，是生活本身。",
-      itinerary: [
-        { d: "D1", title: "赴锡林郭勒", text: "专车赴锡林浩特（或飞抵），傍晚草原日落，晚上蒙古包营地。" },
-        { d: "D2", title: "乌珠穆沁草原 · 马群", text: "深入乌珠穆沁，看蒙古马群放牧，牧民家访学熬奶茶、奶食制作。" },
-        { d: "D3", title: "游牧转场体验", text: "跟随牧民转场路线（视季节），草原徒步与摄影，晚上星空与长调民歌。" },
-        { d: "D4", title: "返程", text: "上午自由活动，送机送站或返呼和浩特。" }
-      ],
-      includes: ["全程专车专导", "3晚住宿（酒店+蒙古包）", "牧民家访安排", "保险"],
-      notes: ["家访为真实牧民家庭，非商业表演点", "尊重牧区习俗，出发前给到礼仪清单", "摄影团可加马群日出专场"]
-    },
-    en: {
-      name: "Xilingol Deep Steppe · 4 Days",
-      brand: "Nomad Bespoke Travel", tag: "Deep culture · Nomadic life",
-      days: "4 days / 3 nights", group: "2–6 guests", depart: "From Hohhot or Xilinhot", season: "Jun–Sep",
-      price: "Tailor-made quote on request",
-      summary: "Mongolian horses of Ujimqin and a real herder-family visit — not a show, life itself.",
-      itinerary: [
-        { d: "D1", title: "Into Xilingol", text: "Private drive to Xilinhot (or fly in), steppe sunset, night in a yurt camp." },
-        { d: "D2", title: "Ujimqin Steppe · Horse Herds", text: "Deep into Ujimqin grassland, watch Mongolian horse herds at pasture, visit a herder family to learn milk tea and dairy crafts." },
-        { d: "D3", title: "Seasonal Migration Walk", text: "Follow the herders' seasonal route (season-dependent), steppe hiking and photography, night stars and long-song folk singing." },
-        { d: "D4", title: "Departure", text: "Free morning, transfer to airport/station or back to Hohhot." }
-      ],
-      includes: ["Private vehicle and guide throughout", "3 nights (hotel + yurt)", "Authentic herder-family visit", "Insurance"],
-      notes: ["Visits are real herder homes, not commercial show camps", "Etiquette checklist provided before departure", "Photography groups can add a sunrise horse-herd session"]
-    }
   }
 };

@@ -40,8 +40,7 @@
     "hulunbuir-classic": "dest-hulunbuir.jpg",
     "volcano-stars": "trip-volcano.jpg",
     "kubuqi-desert": "trip-desert.jpg",
-    "hohhot-culture": "dest-hohhot.jpg",
-    "xilingol-deep": "dest-xilingol.jpg"
+    "hohhot-culture": "dest-hohhot.jpg"
   };
   function imgBase() { return LANG === "en" ? "../assets/img/" : "assets/img/"; }
 

@@ -2,8 +2,8 @@
 window.SITE_CONFIG = {
   baseUrl: "https://www.naheya-nomad.com",
   phone: "15598186111",
-  phoneDisplayZh: "155 9818 6111",
-  phoneDisplayEn: "+86 155 9818 6111",
+  phoneDisplayZh: "+8615598186111",
+  phoneDisplayEn: "+8615598186111",
   phoneIntl: "+8615598186111",
   wechat: "15598186111",
   whatsapp: "8615598186111",
